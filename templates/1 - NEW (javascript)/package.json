@@ -1,0 +1,17 @@
+{
+  "name": "new-js-dgen-cli",
+  "version": "1.0.0",
+  "description": "New discord.js project made by DGEN CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dgen-cli"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk-animation": "^2.0.2"
+  }
+}
